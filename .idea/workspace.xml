@@ -9,25 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3f967c-7545-40f7-9aac-c1d73596b0b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zti/lab7_zad04/HelloResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zti/lab7_zad04/JDBCResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zti/lab7_zad04/Lab4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zti/model1/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zti/model1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    <list default="true" id="5c3f967c-7545-40f7-9aac-c1d73596b0b4" name="Changes" comment="rest api works without jpa">
+      <change afterPath="$PROJECT_DIR$/src/main/java/zti/lab7_zad04/JPAResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zti/model2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zti/lab7_zad04/Lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zti/lab7_zad04/Lab4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,11 +167,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681898000583</updated>
-      <workItem from="1681898002500" duration="1735000" />
+      <workItem from="1681898002500" duration="3226000" />
     </task>
+    <task id="LOCAL-00001" summary="rest api works without jpa">
+      <created>1681900989083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681900989083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rest api works without jpa" />
+    <option name="LAST_COMMIT_MESSAGE" value="rest api works without jpa" />
   </component>
 </project>

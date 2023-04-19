@@ -8,10 +8,18 @@ import java.util.Set;
 
 @ApplicationPath("/api")
 public class Lab4 extends Application {
+//    public Set<Class<?>> getClasses() {
+//        HashSet<Class<?>> set = new HashSet<Class<?>>();
+//        set.add(HelloResource.class);
+//        set.add(JDBCResource.class);
+//        return set;
+//    }
+
     public Set<Class<?>> getClasses() {
         HashSet<Class<?>> set = new HashSet<Class<?>>();
         set.add(HelloResource.class);
         set.add(JDBCResource.class);
+        set.add(JPAResource.class);
         return set;
     }
 
